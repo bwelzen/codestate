@@ -40,12 +40,6 @@
             </exclusions>
         </dependency>
         <dependency>
-            <groupId>com.picopoint.test</groupId>
-            <artifactId>codestatebkend</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20190722</version>
