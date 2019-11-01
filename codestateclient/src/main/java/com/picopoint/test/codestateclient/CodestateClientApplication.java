@@ -26,7 +26,7 @@ public class CodestateClientApplication {
 
     @GetMapping("/")
     public static String Hello() {
-        return "I'M YOUR CONVERTOR";
+        return "I AM YOUR CONVERTER";
     }
 
     @GetMapping("/codeToState")
