@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/codestate.iml" filepath="$PROJECT_DIR$/.idea/codestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codestatebkend/codestatebkend.iml" filepath="$PROJECT_DIR$/codestatebkend/codestatebkend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codestateclient/codestateclient.iml" filepath="$PROJECT_DIR$/codestateclient/codestateclient.iml" />
+    </modules>
+  </component>
+</project>
